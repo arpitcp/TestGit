@@ -1,2 +1,2 @@
 # TestGit
-GitTesting
+This repository for testing how Git works
